@@ -26,5 +26,13 @@ You have also been requested to check whether there are any anomalies in the giv
 The dataset files for part 1, 2, 3 and 4 can be found below:
 
 Part 1 and 2: Dataset [http://bit.ly/CarreFourDataset].
+
 Part 3: Dataset [http://bit.ly/SupermarketDatasetII].
+
+### Links To R-Pubs
+file:///F:/IP/Part_3_Association_Rules.html
+
+file:///F:/IP/Part_4_Anomaly_Detection.html
+
+file:///F:/IP/PCA-and-T-SNE-IP-week3.html
 Part 4: Dataset [http://bit.ly/CarreFourSalesDataset].
