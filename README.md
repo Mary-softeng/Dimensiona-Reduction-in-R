@@ -4,7 +4,10 @@ You are a Data analyst at Carrefour Kenya and are currently undertaking a projec
 marketing strategies that will result in the highest no. of sales (total price including tax). Your project has been divided into four parts 
 where you'll explore a recent marketing dataset by performing various unsupervised learning techniques and later providing recommendations based on your insights.
 
-
+### links to r pubs
+- Dimentionality reduction and feature selection: https://rpubs.com/marysofteng/913090
+- Association rule: https://rpubs.com/marysofteng/913751
+- Anomaly Detection: https://rpubs.com/marysofteng/913806
 ## Part 1: Dimensionality Reduction
 
 This section of the project entails reducing your dataset to a low dimensional dataset using the t-SNE algorithm or PCA. You will be required to perform your analysis and provide insights gained from your analysis.
